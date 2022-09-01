@@ -17,6 +17,5 @@ I'm a Fullstack software Engineer and also a Data Engineer who currently works o
 
 ---
 
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=talented-vicky&show_icons=true&include_all_commits=true&hide_border=true" alt="Victor's GitHub stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynameissaraah&langs_count=8&layout=compact&hide_border=true" alt="Victor's GitHub stats" /> |
 | ------------- | ------------- |
