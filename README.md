@@ -9,10 +9,11 @@ I'm a Fullstack software Engineer and also a Data Engineer who currently works o
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
+- 📫 Main fact: I'm a 400L Biomedical Engineering student at the [University of Lagos](https://unilag.edu.ng/) Class of 2023.
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently working on projects in Reactjs and Nodejs and am currently improving my Python skills.
+- 🌱 I’m currently working on projects in Nodejs and also in Reactjs with Redux.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Front-end Software Engineer, Data Engineer (Intern or Junior level).
+- 💼 Job interests: Frontend or Backend Software Engineer, Data Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing victorotubure7@gmail.com.
 
 ---
