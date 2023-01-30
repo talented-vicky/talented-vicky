@@ -4,7 +4,7 @@
 
 
 
-I'm a Fullstack software Engineer and also a Data Engineer who currently works on personal developments. I'm passionate about sharing knowledge, web and data engineering,  and others. I post stuff on youtube [YouTube](https://www.youtube.com/channel/UCeAvsKYG41VnNZBdpZIElSA)), build useful [open-source projects](https://github.com/talented-vicky), and I am really passionate about contributing to advancements in technology...
+I'm a Backend Developer and also a Data Engineer who currently works on personal developments. I'm passionate about sharing knowledge, web and data engineering, amongst others. I post stuff on youtube [YouTube](https://www.youtube.com/channel/UCeAvsKYG41VnNZBdpZIElSA)), build useful [open-source projects](https://github.com/talented-vicky), and I am really passionate about contributing to advancements in technology...
 
 **Here's a quick summary about me**:
 
