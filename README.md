@@ -14,7 +14,7 @@ I'm a Backend Developer and also a Data Engineer who currently works on personal
 - 🌱 I’m currently working on projects in Nodejs, apacheSQL and data structures and algorithms using python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Developer or Data Engineer (Intern or Junior level).
-- 📫 You can [view my resume]([#](https://drive.google.com/file/d/1hfZcFIAoMPTKDTuoeA18VV8ODlsM2uh1/view?usp=share_link)) and contact me by emailing victorotubure7@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1hfZcFIAoMPTKDTuoeA18VV8ODlsM2uh1/view?usp=share_link) and contact me by emailing victorotubure7@gmail.com.
 
 ---
 
