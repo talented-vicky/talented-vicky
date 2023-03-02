@@ -4,16 +4,16 @@
 
 
 
-I'm a Backend Developer and also a Data Engineer who currently works on personal developments. I'm passionate about sharing knowledge, web and data engineering, amongst others. I post stuff on youtube [YouTube](https://www.youtube.com/channel/UCeAvsKYG41VnNZBdpZIElSA)), build useful [open-source projects](https://github.com/talented-vicky), and I am really passionate about contributing to advancements in technology...
+I'm a Backend Engineer and also a Flutter developer who currently works on personal developments. I'm passionate about sharing knowledge, web and mobile application with data engineering, amongst others. I build useful [open-source projects](https://github.com/talented-vicky), and I am really passionate about contributing to advancements in technology...
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 📫 Main fact: I'm a 400L Biomedical Engineering student at the [University of Lagos](https://unilag.edu.ng/) Class of 2023.
+- 📫 Main fact: I'm a 400L Biomedical Engineering student of the [University of Lagos](https://unilag.edu.ng/) Class of 2023.
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently working on projects in Nodejs, apacheSQL and data structures and algorithms using python.
+- 🌱 I’m currently working on projects in Nodejs with javascript, and flutter with dart.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Backend Developer or Data Engineer (Intern or Junior level).
+- 💼 Job interests: Backend Engineer or Flutter Developer for mobile app (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1hfZcFIAoMPTKDTuoeA18VV8ODlsM2uh1/view?usp=share_link) and contact me by emailing victorotubure7@gmail.com.
 
 ---
