@@ -14,7 +14,7 @@ I'm a Backend Engineer and also a Flutter developer who currently works on perso
 - 🌱 I’m currently working on projects in Nodejs with javascript, and flutter with dart.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Engineer or Flutter Developer for mobile app (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1hfZcFIAoMPTKDTuoeA18VV8ODlsM2uh1/view?usp=share_link) and contact me by emailing victorotubure7@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1pvvORuoYIffHoZuWWtKc4A5HBGw6I0xAReRW0vGojo0/edit?usp=share_link) and contact me by emailing victorotubure7@gmail.com.
 
 ---
 
