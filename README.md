@@ -9,9 +9,9 @@ I'm a Backend Engineer and also a Flutter developer who currently works on perso
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 📫 Main fact: I'm a 500L Biomedical Engineering student of the [University of Lagos](https://unilag.edu.ng/) Class of 2023.
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently working on projects in Nodejs with javascript, and flutter with dart.
+- 📫 Main fact: I'm a finalist (500L) Biomedical Engineering student of the [University of Lagos](https://unilag.edu.ng/) Class of 2022.
+- 💡 Fun fact: I'm also an 100L Computer Science student at the [International University of Applied Sciences](https://www.iu.org/) Class of 2027.
+- 🌱 I’m currently working on projects in ReactJs with javascript, and flutter with dart.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Engineer or Flutter Developer for mobile app (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1pvvORuoYIffHoZuWWtKc4A5HBGw6I0xAReRW0vGojo0/edit?usp=drive_link) and contact me by emailing victorotubure7@gmail.com.
