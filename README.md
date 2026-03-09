@@ -4,16 +4,16 @@
 
 
 
-I'm a Fullstack Engineer and also a Flutter developer who currently works on personal developments. I'm passionate about sharing knowledge, web and mobile application with data engineering, amongst others. I build useful [open-source projects](https://github.com/talented-vicky), and I am really passionate about contributing to advancements in technology...
+I'm a Fullstack Engineer and also a Flutter developer who currently works on personal developments. I'm passionate about sharing knowledge, web and mobile applications. I build useful [open-source projects](https://github.com/talented-vicky), and I am really passionate about contributing to advancements in technology...
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 📫 Main fact: I'm a Biomedical Engineering graduate of the [University of Lagos](https://unilag.edu.ng/) Class of 2022.
-- 🌱 I’m currently working on projects in ReactJs, Nextjs, and flutter with dart.
-- 💡 Fun fact: I'm learning the foundatioin of DevOps, started out with docker for continerizing web applications.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Backend Engineer, Frontend Engineer, or Flutter Developer (Intern or Junior level).
+- 📫 Main fact: I'm a Biomedical Engineering graduate (BSc. Hons) of the [University of Lagos](https://unilag.edu.ng/) Class of 2022 and an AltSchool graduate (Diploma) of Computer Software Engineering [AltSchool Africa, Rwanda](https://altschoolafrica.com) Class of 2024.
+- 🌱 I’m currently working on frontend projects with ReactJs and Next.Js, and backend with Node.Js, Dotnet8, and NestJs.
+- 💡 Fun fact: I'm currently building tenancy web applications for schools with advanced technologies.
+- 😊 I’m open to source projects, hackathons, internships, and mid-level opportunities.
+- 💼 Job interests: Fullstack Engineer, Frontend Developer, Backend Engineer, Mobile Developer (Mid or Senior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1pvvORuoYIffHoZuWWtKc4A5HBGw6I0xAReRW0vGojo0/edit?usp=drive_link) and contact me by emailing victorotubure7@gmail.com.
 
 ---
